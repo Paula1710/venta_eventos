@@ -1,0 +1,24 @@
+.buscador-container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buscador-input{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.5em;
+    width: 500px;
+    height: 75px;
+    margin-bottom: 30px;
+}
+
+.buscador-filter{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.1em;
+}
+
+.buscador-button{
+    margin-bottom: 20px;
+} 

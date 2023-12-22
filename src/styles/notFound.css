@@ -1,0 +1,15 @@
+.notFound{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.notFound_text{
+    font-size: 2.5em;
+    font-family: 'Times New Roman', sans-serif;
+    color: #f0e68c;
+}
+

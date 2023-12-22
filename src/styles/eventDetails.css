@@ -1,0 +1,78 @@
+.event-details {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #333;
+    color: #f0e68c;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.event-imagen {
+    margin-top: 10px;
+}
+
+.event-details-text {
+    flex: 1;
+    margin-left:50px;
+    font-family: 'Times New Roman', sans-serif;
+}
+.event-nombre {
+    font-size:3.5em;
+    font-weight: bold;
+    color: #f0e68c;
+    margin-bottom: 10px;
+}
+
+.event-empresa {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-fecha_hora {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-ubicacion {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-precio {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-aforo {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-descripcion {
+    font-size:2em;
+    margin-bottom: 10px;
+}
+
+.event-button {
+    padding: 10px 20px;
+    background-color: #f0e68c;
+    font-size: 1em;
+    font-family: 'Times New Roman',  sans-serif;
+    color: #040303;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    border:#040303;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.entradas-text {
+    font-family: 'Times New Roman', sans-serif;
+    font-size:3em;
+    color: #f0e68c;
+    margin-top: 30px;
+}

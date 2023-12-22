@@ -1,0 +1,31 @@
+.evento-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    margin-top:30px;
+}
+
+.evento-container > * {
+    flex: 1 1 17%;
+    max-width: 40%; 
+    margin: 15px; 
+}
+
+.contenedor-principal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    padding: 10px; 
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+.center-text {
+    text-align: center;
+    color: #f0e68c;
+    font-size: 4em;
+    font-family: 'Times New Roman',sans-serif;
+    padding-top:20px;
+    margin-bottom: 50px;
+}

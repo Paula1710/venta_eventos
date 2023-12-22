@@ -1,0 +1,15 @@
+.popUp-titulo{
+    font-family: 'Times New Roman', sans-serif;
+    background-color:antiquewhite;     
+}
+
+.popUp-body{
+    font-family: 'Times New Roman', sans-serif;
+    font-size:1.5em;
+}
+
+.popUp-button{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1.25em;
+    background-color: black;
+}

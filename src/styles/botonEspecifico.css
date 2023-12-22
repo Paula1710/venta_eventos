@@ -1,0 +1,12 @@
+.button-especifico {
+    padding: 10px 20px;
+    background-color: #f0e68c;
+    font-size: 1em;
+    font-family: 'Times New Roman',  sans-serif;
+    color: #040303;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    border:#040303;
+    margin-top: 10px;
+}
